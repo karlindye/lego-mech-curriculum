@@ -1,0 +1,5 @@
+git remote add origin https://github.com/karlindye/lego-mech-curriculum.git
+git branch -M main
+git add .
+git commit -m "Initial commit with Week 1 lessons"
+git push -u origin main
