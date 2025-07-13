@@ -1,9 +1,9 @@
 ---
-title: Build a Basic Seesaw
+title: Intro to Levers & Balance
 date: 2025-07-15
 week: 1
 lesson: 1
-objective: "Understand the concept of leverage and balance using a first-class lever."
+objective: "Understand the core ideas of first-class levers, seesaws, and pivot points."
 parts:
   - 2x 11L beams
   - 1x 5L beam
@@ -12,28 +12,21 @@ parts:
 book_reference: "Simple Machines, p.12"
 diagram_script: false
 difficulty: 1/5
-estimated_time: 25 mins
+estimated_time: 30 mins
 ---
 
 ## 🧱 Activity
 
-Build a simple seesaw using two long beams. Use one beam horizontally and attach it to a shorter beam vertically as the pivot. Balance small LEGO bricks or figures on each side.
+Discuss and demonstrate the idea of a lever using your hand and a LEGO beam. Show how the pivot point affects balance.
 
 ## 🎯 Learning Goals
-- Introduce **leverage**
-- Explore how length affects balance
-- Practice aligning holes and pin connections
+- Define a lever
+- Identify first-class levers
+- Observe balance and weight distribution
 
 ## 🗣️ Discussion Prompts
-- What happens if one side is longer?
-- What happens if one side is heavier?
-- Why is the center important?
+- What is a lever in real life?
+- What changes when we move the pivot?
 
 ## 🧪 Challenge Extension
-- Move the pivot point off-center
-- Try a 3-armed seesaw using a T-connector
-- Build a "weight guessing game" for balance
-
-## 📸 Log
-Take a photo and label each side with your child's name or characters.
-
+- Find other levers in your home or playground.
